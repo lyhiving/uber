@@ -1,7 +1,7 @@
 [uber司机官网](http://www.ubercom.cn/)
 
 Uber(优步)是目前最流行的打车软件，优步在2016年加快进驻各大城市的进程，是国内领先的打车工服务商。
-![优步司机注册教程_uber司机注册流程图](http://s.ubercom.cn/uber/f/38/ed7803e74bb5fcf326d876c007990.jpg)
+![优步司机注册教程_uber司机注册流程图](web/images/img/uberpic.jpg)
 
 今天起，正式完成[uber司机注册](http://www.ubercom.cn/)，开始赚钱！
 
@@ -20,7 +20,7 @@ Uber(优步)是目前最流行的打车软件，优步在2016年加快进驻各�
 
 2. 方法二：通过手机扫描下面二维码进入优步司机注册页面。
 
-![优步司机注册_下载二维码](http://s.ubercom.cn/uber/e/ba/bb6eafc70686a405db50a958de342.jpg)
+![优步司机注册_下载二维码](web/images/img/uberqrcode.jpg)
 
 如果你已经注册，你可以[点击这里](http://www.youbusiji.com/download/)下载最新的优步司机端。 
 
